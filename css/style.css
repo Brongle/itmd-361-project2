@@ -31,14 +31,14 @@
 #nav-bar ul li a :hover {
 	background-color: teal;
 }
-#header {
+#h1 {
 	background-color: aqua;
 	color: white;
 	font-size: 50px;
 	text-align: center;
 	font-family: "Palatino";
 }
-#header 2{
+#h2{
 	background-color: blue;
 	color: white;
 	font-size: 25px;
