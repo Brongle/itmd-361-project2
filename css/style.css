@@ -154,7 +154,33 @@ body {
 	margin-right: 10%;
 	margin-top: 10%;
 }
-
+#header2 {
+	background-color: #008B8B;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#header3 {
+	background-color: #008B8B;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#header4 {
+	background-color: #008B8B;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
 img {
 	display: block;
 	margin-left: auto;
