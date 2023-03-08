@@ -1,5 +1,5 @@
 #nav-bar {
-	background-color: teal;
+	background-color: black;
 	overflow:hidden;
 	color: white;
 }
@@ -31,13 +31,6 @@
 }
 #nav-bar ul li a:hover {
 	background-color: #000;
-}
-h1 {
-	background-color: teal;
-	color: white;
-	font-size: 50px;
-	text-align: center;
-	font-family: Palatino;
 }
 	
 
