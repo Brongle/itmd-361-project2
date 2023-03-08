@@ -52,7 +52,7 @@ body {
 	margin-left: 10%;
 	margin-right: 10%;
 }
-#container {
+#skills-container {
 	float: left;
 	width: 100%;
 	position: relative;
@@ -69,6 +69,11 @@ body {
 #edu {
 	margin-left: 10%;
 	margin-right: 10%;
+}
+#edu-container {
+	float: left;
+	width: 100%;
+	position: relative;
 }
 #edu h2 {
 	background-color: #5F9EA0;
@@ -104,6 +109,11 @@ body {
 #experience {
 	margin-left: 10%;
 	margin-right: 10%;
+}
+#exp-container {
+	float: left;
+	width: 100%;
+	position: relative;
 }
 #experience h2 {
 	background-color: #5F9EA0;
