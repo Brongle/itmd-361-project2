@@ -1,3 +1,6 @@
+body {
+	background-color: teal;
+}
 #nav-bar {
 	background-color: teal;
 	overflow: hidden;
@@ -20,7 +23,7 @@
 	position: relative;
 	right: 50%;
 	display: block;
-	font-family: "Palatino";
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 #nav-bar ul li a {
 	display: block;
@@ -29,21 +32,130 @@
 	text-decoration: none;
 }
 #nav-bar ul li a :hover {
-	background-color: teal;
+	background-color: black;
 }
-#h1 {
-	background-color: aqua;
+#header {
+	background-color: #008B8B;
 	color: white;
 	font-size: 50px;
 	text-align: center;
-	font-family: "Palatino";
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
 }
-#h2{
-	background-color: blue;
+#skills h2 {
+	background-color: #5F9EA0;
 	color: white;
 	font-size: 25px;
 	text-align: center;
-	font-family: "Palatino";
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#container {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+#skills ul li {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
+}
+#edu {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#edu h2 {
+	background-color: #5F9EA0;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-top: 25%;
+}
+#edu h4 {
+	color: white;
+	font-size: 16px;
+	text-align: left;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+#edu p {
+	color: white;
+	text-align: left;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#edu ul li {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
+}
+#experience {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#experience h2 {
+	background-color: #5F9EA0;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+#experience h4 {
+	color: white;
+	font-size: 16px;
+	text-align: left;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+#experience p {
+	color: white;
+	text-align: left;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#experience ul li {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
 }
 #contact {
-	
+	background-color: #20B2AA;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: 25%;
+}
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: 25%;
+}
+
