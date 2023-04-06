@@ -45,10 +45,13 @@ h1 {
 	margin-right: 10px;
 }
 ul li a {
-	display: block;
-	padding: 20px 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: "Palatino";
 	color: white;
-	text-decoration: none;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
 }
 h2 {
 	background-color: #5F9EA0;
