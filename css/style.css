@@ -36,7 +36,7 @@
 	background-color: grey;
 }
 h1 {
-    background-color: #008B8B
+    background-color: #5F9EA0;
     font-family: "Palatino";
     color: white;
     font-size: 50px;
@@ -52,6 +52,12 @@ h3 {
     text-align: center;
 	color: white;
 }
+h4 {
+	font-family: "Palatino";
+	text-align: left;
+	color: white;
+	border-style: dashed;
+	border-color: 
 p {
 	font-family: "Palatino";
 	color: white;
