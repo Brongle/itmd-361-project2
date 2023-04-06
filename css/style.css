@@ -35,14 +35,26 @@
 #nav-bar ul li a:hover {
 	background-color: grey;
 }
-#header {
-	background-color: #008B8B;
-	color: white;
-	font-size: 50px;
-	text-align: center;
+h1 {
+    background-color:#008B8B
+    font-family: "Palatino";
+    color: white;
+    font-size: 50px;
+    text-align:center;
+}
+h2 {
 	font-family: "Palatino";
-	margin-left: 10px;
-	margin-right: 10px;
+	text-align:center;
+}
+h3 {
+    font-family: "Palatino";
+    text-align:center;
+}
+p {
+	font-family: "Palatino";
+}
+li {
+	font-family: "Palatino";
 }
 
 
