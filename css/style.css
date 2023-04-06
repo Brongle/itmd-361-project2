@@ -181,7 +181,20 @@ h2 {
 	margin-top: 10px;
 	border-style: hidden;
 }	
-
+#end {
+	text-align: center;
+	border-style: solid;
+	border-color: #E3735E;
+	float: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #20B2AA;
+}
 #end h4{
 	background-color: #5F9EA0;
 	color: white;
@@ -215,14 +228,6 @@ h2 {
 #header p {
 	color:white;
 	font-family: "Palatino";
-}
-#img {
-	align-items:center;
-	float:center;
-	border-style: ridge;
-	border-color: #E3735E;
-	width: auto;
-	height: auto;
 }
 #Genres {
 	text-align: center;
