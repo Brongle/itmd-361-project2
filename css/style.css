@@ -3,7 +3,7 @@
 	background-color: teal;
 }
 #nav-bar {
-	background-color: blue;
+	background-color: #E3735E;
 	overflow: hidden;
 }
 #nav-container {
@@ -32,7 +32,7 @@
 	color: black;
 	text-decoration: none;
 }
-#nav-bar ul li a :hover {
+#nav-bar ul li a:hover {
 	background-color: green;
 }
 #header {
