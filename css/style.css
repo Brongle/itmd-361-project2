@@ -191,7 +191,6 @@ h2 {
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: 10px;
-	border-style: hidden;
 }
 #end p {
 	color: white;
@@ -217,14 +216,12 @@ h2 {
 	color:white;
 	font-family: "Palatino";
 }
-img iframe {
-	display: block;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
-	border-style: grooved;
+.imgs {
+	align-items:center;
+	float:center;
+	border-style: ridge;
 	border-color: #E3735E;
+	width: auto;
+	height: auto;
 }
-	
 
