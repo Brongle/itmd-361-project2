@@ -173,5 +173,29 @@ h1 {
 	margin-top: 10px;
 	border-style: hidden;
 }	
-	
+#genres {
+	text-align: center;
+	border-style: solid;
+	border-color: #E3735E;
+	float: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #20B2AA;
+}
+#end {
+	background-color: #20B2AA;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border-style: hidden;
+}	
 
