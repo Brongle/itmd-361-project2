@@ -101,6 +101,9 @@ h1 {
 #edu h4 {
 	color: white;
 	font-family: "Palatino";
+	background-color: #5F9EA0;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 #edu p {
 	color: white;
@@ -141,6 +144,9 @@ h1 {
 #experience h4 {
 	color: white;
 	font-family: "Palatino";
+	background-color: #5F9EA0;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 #experience ul li {
 	margin-left: 10px;
@@ -153,7 +159,7 @@ h1 {
 	border-color:grey;
 }
 #experience p {
-	font-color: white;
+	color: white;
 	font-family: "Palatino";
 }
 #contact {
