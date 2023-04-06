@@ -107,7 +107,7 @@ h1 {
 }
 #edu p {
 	color: white;
-	font-size; 10px;
+	font-size: 10px;
 	font-family: "Palatino";
 }
 #edu ul li {
@@ -133,6 +133,30 @@ h1 {
 	padding-right: 10px;
 	padding-left: 10px;
 	background-color: #20B2AA;
+}
+#experience h2 {
+	background-color: #5F9EA0;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#experience h4 {
+		color: white;
+	font-size: 15px;
+	font-family: "Palatino";
+}
+#experience ul li {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: "Palatino";
+	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
+	border-color:grey;
 }
 #contact {
 	background-color: #20B2AA;
