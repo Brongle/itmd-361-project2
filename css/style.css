@@ -91,6 +91,35 @@ h1 {
 	padding-left: 10px;
 	background-color: #20B2AA;
 }
+#edu h2 {
+	background-color: #5F9EA0;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#edu h4 {
+	color: white;
+	font-size: 15px;
+	font-family: "Palatino";
+}
+#edu p {
+	color: white;
+	font-size; 10px;
+	font-family: "Palatino";
+}
+#edu ul li {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: "Palatino";
+	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
+	border-color:grey;
+}
 #experience {
 	text-align: center;
 	border-style: solid;
