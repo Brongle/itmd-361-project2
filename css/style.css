@@ -2,7 +2,7 @@ body {
 	background-color: teal;
 }
 #nav-bar {
-	background-color: teal;
+	background-color: blue;
 	overflow: hidden;
 }
 #nav-container {
@@ -32,7 +32,7 @@ body {
 	text-decoration: none;
 }
 #nav-bar ul li a :hover {
-	background-color: black;
+	background-color: green;
 }
 #header {
 	background-color: #008B8B;
