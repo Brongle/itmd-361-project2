@@ -44,6 +44,9 @@
 	margin-left: 10px;
 	margin-right: 10px;
 }
+#sklls {
+	border-style: solid;
+}
 #skills h2 {
 	background-color: #5F9EA0;
 	color: white;
@@ -52,11 +55,6 @@
 	font-family: "Palatino";
 	margin-left: 10px;
 	margin-right: 10px;
-}
-#skills-container {
-	float: left;
-	width: 100%;
-	position: relative;
 }
 #skills ul li {
 	margin-left: 10px;
@@ -73,11 +71,7 @@
 	margin-right: 10px;
 	margin-top: 10px;
 }
-#edu-container {
-	float: left;
-	width: 100%;
-	position: relative;
-}
+
 #edu h2 {
 	background-color: #5F9EA0;
 	color: white;
