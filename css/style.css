@@ -53,15 +53,7 @@ ul li a {
 	list-style-type: none;
 	border-style:inset;
 }
-h2 {
-	background-color: #5F9EA0;
-	color: white;
-	font-size: 25px;
-	text-align: center;
-	font-family: "Palatino";
-	margin-left: 10px;
-	margin-right: 10px;
-}
+
 #skills {
 	text-align: center;
 	border-style: solid;
@@ -76,11 +68,23 @@ h2 {
 	padding-left: 10px;
 	background-color: #20B2AA;
 }
-#skills ul li a {
-	display: block;
-	padding: 20px 20px;
+#skills h2 {
+	background-color: #5F9EA0;
 	color: white;
-	text-decoration: none;
+	font-size: 25px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#skills ul li a {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: "Palatino";
+	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
 }
 
 #edu {
