@@ -243,4 +243,17 @@ h2 {
 	padding-left: 10px;
 	background-color: #20B2AA;
 }
+p {
+	color:white;
+	font-family: "Palatino";
+}
+h3 {
+	background-color: #5F9EA0;
+	color: white;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 20px;
+	margin-right: 20px;
+}
+	
 
