@@ -72,7 +72,7 @@
 	margin-top: 10px;
 }
 
-#edu h2 {
+h2 {
 	background-color: #5F9EA0;
 	color: white;
 	font-size: 25px;
@@ -80,13 +80,13 @@
 	font-family: "Palatino";
 	margin-top: 25px;
 }
-#edu h4 {
+h4 {
 	color: white;
 	font-size: 16px;
 	text-align: left;
 	font-family: "Palatino";
 }
-#edu p {
+p {
 	color: white;
 	text-align: left;
 	font-family: "Palatino";
@@ -94,7 +94,7 @@
 	margin-right: 10px;
 	margin-top: 10px;
 }
-#edu ul li {
+ul li {
 	margin-left: 10%;
 	margin-right: 10%;
 	font-family: "Palatino";
@@ -109,35 +109,7 @@
 	margin-right: 10px;
 	margin-top: 10px;
 }
-#experience h2 {
-	background-color: #5F9EA0;
-	color: white;
-	font-size: 25px;
-	text-align: center;
-	font-family: "Palatino";
-}
-#experience h4 {
-	color: white;
-	font-size: 16px;
-	text-align: left;
-	font-family: "Palatino";
-}
-#experience p {
-	color: white;
-	text-align: left;
-	font-family: "Palatino";
-	margin-left: 10px;
-	margin-right: 10px;
-}
-#experience ul li {
-	margin-left: 10px;
-	margin-right: 10px;
-	font-family:  "Palatino";
-	color: white;
-	text-align: left;
-	list-style-type: none;
-	border-style:inset;
-}
+
 #contact {
 	background-color: #20B2AA;
 	color: white;
