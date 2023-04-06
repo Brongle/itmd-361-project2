@@ -1,6 +1,8 @@
 
 #wallpaper {
 	background-color: teal;
+	align-items:center;
+	text-align:center;
 }
 #nav-bar {
 	background-color: #E3735E;
