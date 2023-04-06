@@ -224,4 +224,18 @@ h2 {
 	width: auto;
 	height: auto;
 }
+#Genres {
+	text-align: center;
+	border-style: solid;
+	border-color: #E3735E;
+	float: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #20B2AA;
+}
 
