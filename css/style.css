@@ -216,7 +216,7 @@ h2 {
 	color:white;
 	font-family: "Palatino";
 }
-.imgs {
+#img {
 	align-items:center;
 	float:center;
 	border-style: ridge;
