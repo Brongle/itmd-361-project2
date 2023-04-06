@@ -86,9 +86,24 @@ ul li {
 	margin-top: 15px;
 	margin-bottom: 15px;
 	padding: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #20B2AA;
 }
+
 #edu {
-	text-
-	
+	text
+}
+#contact {
+	background-color: #20B2AA;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border-style: hidden;
+}	
 	
 
