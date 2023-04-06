@@ -36,16 +36,22 @@
 	background-color: grey;
 }
 h1 {
-    background-color: #5F9EA0;
-    font-family: "Palatino";
-    color: white;
-    font-size: 50px;
-    text-align: center;
+	background-color: #008B8B;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
 }
 h2 {
-	font-family: "Palatino";
-	text-align: center;
+	background-color: #5F9EA0;
 	color: white;
+	font-size: 25px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
 }
 h3 {
     font-family: "Palatino";
@@ -56,15 +62,19 @@ h4 {
 	font-family: "Palatino";
 	text-align: left;
 	color: white;
-	border-style: dashed;
-	border-color: 
+}
 p {
 	font-family: "Palatino";
 	color: white;
 }
-li {
+ul li {
+	margin-left: 10px;
+	margin-right: 10px;
 	font-family: "Palatino";
 	color: white;
+	text-align: left;
+	list-style-type: none;
+	border-style:inset;
 }
 #skills {
 	text-align: center;
@@ -77,6 +87,8 @@ li {
 	margin-bottom: 15px;
 	padding: 10px;
 }
+#edu {
+	text-
 	
 	
 
