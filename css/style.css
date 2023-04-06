@@ -35,7 +35,21 @@
 #nav-bar ul li a:hover {
 	background-color: grey;
 }
-
+h1 {
+	background-color: #008B8B;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: "Palatino";
+	margin-left: 10px;
+	margin-right: 10px;
+}
+ul li a {
+	display: block;
+	padding: 20px 20px;
+	color: white;
+	text-decoration: none;
+}
 #skills {
 	text-align: center;
 	border-style: solid;
