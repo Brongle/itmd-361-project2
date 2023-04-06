@@ -1,60 +1,64 @@
 
 #wallpaper {
-	background-color: teal;
+	background-color:teal;
 }
 #nav-bar {
-	background-color: #E3735E;
-	overflow: hidden;
+	background-color:#E3735E;
+	overflow:hidden;
 }
 #nav-container {
-	float: left;
-	width: 100%;
-	position: relative;
+	float:left;
+	width:100%;
+	position:relative;
 }
 #nav-bar ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	position: relative;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position:relative;
 	left: 50%;
 	float: left;
 }
 #nav-bar ul li {
-	float: left;
-	position: relative;
-	right: 50%;
-	display: block;
-	font-family: "Palatino";
+	float:left;
+	position:relative;
+	right:50%;
+	display:block;
+	font-family:"Palatino";
 }
 #nav-bar ul li a {
-	display: block;
-	padding: 20px 20px;
-	color: white;
+	display:block;
+	padding:20px 20px;
+	color:white;
 	text-decoration: none;
 }
 #nav-bar ul li a:hover {
-	background-color: grey;
+	background-color:grey;
 }
 h1 {
     background-color:#008B8B
-    font-family: "Palatino";
-    color: white;
-    font-size: 50px;
+    font-family:"Palatino";
+    color:white;
+    font-size:50px;
     text-align:center;
 }
 h2 {
-	font-family: "Palatino";
+	font-family:"Palatino";
 	text-align:center;
+	color:white;
 }
 h3 {
-    font-family: "Palatino";
+    font-family:"Palatino";
     text-align:center;
+	color:white;
 }
 p {
 	font-family: "Palatino";
+	color:white;
 }
 li {
 	font-family: "Palatino";
+	color:white;
 }
 
 
