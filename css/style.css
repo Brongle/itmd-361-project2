@@ -41,8 +41,8 @@
 	font-size: 50px;
 	text-align: center;
 	font-family: "Palatino";
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #skills h2 {
 	background-color: #5F9EA0;
@@ -50,8 +50,8 @@
 	font-size: 25px;
 	text-align: center;
 	font-family: "Palatino";
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #skills-container {
 	float: left;
@@ -59,8 +59,8 @@
 	position: relative;
 }
 #skills ul li {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 	font-family: "Palatino";
 	color: white;
 	text-align: left;
@@ -68,8 +68,10 @@
 	border-style:inset;
 }
 #edu {
-	margin-left: 10%;
-	margin-right: 10%;
+	border: hidden;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
 }
 #edu-container {
 	float: left;
@@ -82,7 +84,7 @@
 	font-size: 25px;
 	text-align: center;
 	font-family: "Palatino";
-	margin-top: 25%;
+	margin-top: 25px;
 }
 #edu h4 {
 	color: white;
@@ -94,9 +96,9 @@
 	color: white;
 	text-align: left;
 	font-family: "Palatino";
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-top: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
 }
 #edu ul li {
 	margin-left: 10%;
@@ -108,8 +110,8 @@
 	border-style:inset;
 }
 #experience {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #exp-container {
 	float: left;
@@ -133,12 +135,12 @@
 	color: white;
 	text-align: left;
 	font-family: "Palatino";
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #experience ul li {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 	font-family:  "Palatino";
 	color: white;
 	text-align: left;
@@ -151,9 +153,9 @@
 	font-size: 25px;
 	text-align: center;
 	font-family: "Palatino";
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-top: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
 }
 #header2 {
 	background-color: #008B8B;
@@ -161,8 +163,8 @@
 	font-size: 50px;
 	text-align: center;
 	font-family: "Palatino";
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #header3 {
 	background-color: #008B8B;
