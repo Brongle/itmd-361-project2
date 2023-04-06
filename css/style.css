@@ -29,11 +29,11 @@
 #nav-bar ul li a {
 	display: block;
 	padding: 20px 20px;
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 #nav-bar ul li a:hover {
-	background-color: green;
+	background-color: grey;
 }
 #header {
 	background-color: #008B8B;
@@ -68,7 +68,7 @@
 	border-style:inset;
 }
 #edu {
-	border: hidden;
+	border: dashed;
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: 10px;
@@ -110,8 +110,10 @@
 	border-style:inset;
 }
 #experience {
+	border: dashed;
 	margin-left: 10px;
 	margin-right: 10px;
+	margin-top: 10px;
 }
 #exp-container {
 	float: left;
